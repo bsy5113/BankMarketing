@@ -10,13 +10,9 @@
 
 ## Models deployed for prediction
 - Logistic regression, Linear Discriminant Analysis,  Random Forest
-- Predictive Models	Classification Error Rate	AUC
-Logistic Regression (model 1)	8.97%	0.937
-Logistic Regression (model 2)	13.1%	0.937
-LDA	3.63%	0.976
-Random Forest (model 3)	12.83%	0.968
+
 ![image](https://user-images.githubusercontent.com/52574322/116801331-8e297a80-aace-11eb-8c5d-c4414986c41d.png)
 
 
 
-# __Please see word doc for the final report__
+## __Please see word doc for the detailed report__
