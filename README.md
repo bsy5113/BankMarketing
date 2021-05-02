@@ -5,7 +5,18 @@
 
 - Data science can provide the tools and skills to classify people as to who would be more likely to opt for the term deposit. A Portuguese bank undertook such a direct marketing campaign and collected data of people who applied or did not apply for term deposit, and some features related to people to whom they made the call. In this study, the goal is to predict the people who are likely to be opt for the term deposit based on the available profile of data.
 
-## Deployed model for prediction
+## Methodology selected for feature selection
 - RIDGE, LASSO, Forward, Backward, Stepwise
+
+## Models deployed for prediction
+- Logistic regression, Linear Discriminant Analysis,  Random Forest
+- Predictive Models	Classification Error Rate	AUC
+Logistic Regression (model 1)	8.97%	0.937
+Logistic Regression (model 2)	13.1%	0.937
+LDA	3.63%	0.976
+Random Forest (model 3)	12.83%	0.968
+![image](https://user-images.githubusercontent.com/52574322/116801331-8e297a80-aace-11eb-8c5d-c4414986c41d.png)
+
+
 
 # __Please see word doc for the final report__
